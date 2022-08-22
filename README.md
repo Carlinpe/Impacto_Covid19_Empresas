@@ -4,7 +4,7 @@
   - **Institucion:** Universidad Nacional De San Antonio Abad Del Cusco
   - **Facultad:** Facultad De Ingenieria Eléctrica, Electrónica, Informática y Mecánica
   - **Escuela Profecional:** Ingenieria Informatica Y De Sistemas
-  - **Proyecto: Impacto_Covid19_Empresas**
+  - **Proyecto: Impacto Covid19 Empresas**
 
 
   #### Autores:
@@ -15,15 +15,6 @@
   - **_RODRIGUEZ HANCCO RUDY RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
   #### - Scrum - Master :
   - **_BUSTAMANTE FLORES ERICK ANDREW_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-  #### - Desarrollador Front-End:
-  - **_CASILLA PERCCA VLADIMIR DANTE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-  #### - Asesor de sistema:
-  - **_DORADO TORRES DIEGO ALONSO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-  #### - Testeador:
-  - **_TTITO QUILCA CESAR RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-  - **_SARCO JACINTO DANIEL EDUARDO_** - _GitHub Account_ - [Mjinboodssj999](https://github.com/Mjinboodssj999)
-  #### - Requerimientos:
-  - **_UGARTE CASTILLO BRIGGITTE LEONOR_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
 
 
 ## Tabla de Contenido

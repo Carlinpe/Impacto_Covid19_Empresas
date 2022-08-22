@@ -4,12 +4,12 @@
   - **Institucion:** Universidad Nacional De San Antonio Abad Del Cusco
   - **Facultad:** Facultad De Ingenieria Eléctrica, Electrónica, Informática y Mecánica
   - **Escuela Profecional:** Ingenieria Informatica Y De Sistemas
-  - **Proyecto: Impacto Covid19 Empresas**
+  - **Actividad: Impacto Covid-19 en las Empresas**
 
 
   #### Autores:
   #### - Product - Owner :
-  - **_GARCIA ZANABRIA GERMAIN_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
+  - **_GARCIA ZANABRIA GERMAIN_** - _Docente_ - [Concytec](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=34979).
   #### - Desarrollador Back-End:
   - **_INCA CRUZ CARLOS EDUARDO_** - _GitHub Account_ - [CarlosEdu322](https://github.com/CarlosEdu322)
   - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [Carlinpe](https://github.com/Carlinpe)

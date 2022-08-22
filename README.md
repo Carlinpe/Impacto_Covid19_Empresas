@@ -9,12 +9,11 @@
 
   #### Autores:
   #### - Product - Owner :
-  - **_QUINTANILLA PORTUGAL ROXANA LISETTE_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
+  - **_GARCIA ZANABRIA GERMAIN_** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
   #### - Desarrollador Back-End:
-  - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-  - **_RODRIGUEZ HANCCO RUDY RODRIGO_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
-  #### - Scrum - Master :
-  - **_BUSTAMANTE FLORES ERICK ANDREW_** - _GitHub Account_ - [VkCarlin](https://github.com/VkCarlin)
+  - **_INCA CRUZ CARLOS EDUARDO_** - _GitHub Account_ - [CarlosEdu322](https://github.com/CarlosEdu322)
+  - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [Carlinpe](https://github.com/Carlinpe)
+  - **_QUISPE PALOMINO LUIYI ANTONY_** - _GitHub Account_ - [luiyiAntony](https://github.com/luiyiAntony)
 
 
 ## Tabla de Contenido

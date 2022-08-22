@@ -8,9 +8,9 @@
 
 
   #### Autores:
-  #### - Product - Owner :
+  #### - Docente :
   - **_GARCIA ZANABRIA GERMAIN_** - _Docente_ - [Concytec](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=34979).
-  #### - Desarrollador Back-End:
+  #### - Estuidiantes:
   - **_INCA CRUZ CARLOS EDUARDO_** - _GitHub Account_ - [CarlosEdu322](https://github.com/CarlosEdu322)
   - **_QUISPE CHAMBILLA CARLOS ENRIQUE_** - _GitHub Account_ - [Carlinpe](https://github.com/Carlinpe)
   - **_QUISPE PALOMINO LUIYI ANTONY_** - _GitHub Account_ - [luiyiAntony](https://github.com/luiyiAntony)

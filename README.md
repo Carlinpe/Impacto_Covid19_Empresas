@@ -64,7 +64,7 @@ TASK 3:
 Que tipos de ayuda (financiamiento, reducción de restricciones, etc) se requiren para activar la mayoria de las empresas
 
 ## Gráficas de análisis
-### TASK 1:
+TASK 1:
 <br>
 Se requiere conocer cuales fueron los problemas que las empresas tuvieron con sus VENTAS.
 Para ello se utilizó el sub-conjunto de datos "Ventas" dentro del conjunto de datos "Impacto del COVID 19 en las empresas", dentro de este sub-conjunto de datos tenemos un grupo de preguntas cuyas respuestas pueden ser 1 (afirmando) y 0 (negando):
@@ -99,7 +99,7 @@ Como resultado las empresas no pueden operar a toda su capacidad
 <br>
 ![Capacidad instalada operativa](https://user-images.githubusercontent.com/111087121/186076656-142ed84f-8475-4a1d-82e3-e09f13d9de30.png)
 
-### TASK 2:
+TASK 2:
 <br>
 Para responder a la pregunta ¿Cuán accesible y efectivo son los programa del gobierno?, necesitamos saber cuales fueron los programas de gobierno a los que accedieron las empresas en el dataset y cuales fueron los mas accesibles.
 <br>
@@ -114,7 +114,7 @@ Y para aclarar la relación entre los programas del gobierno y su efectividad, s
 ![por_que_no_accedio_a_programas_del_gobierno](https://user-images.githubusercontent.com/111087121/186069903-030aa04d-6990-475c-8435-e589d52f524a.jpeg)
 <br>
 
-### TASK 3:
+TASK 3:
 <br>
 Según la grafica que nos muestra la razón de la inoperatividad de las empresas vemos que no existe un motivo predominante, por lo que no se podra especificar un tipo específico de ayuda para todas las empresas, no se sería ótimo. Por lo que tenemos que determinar que grupo de empresas tienen mayor relevancia en la reactivación económica. Nos enfocamos en la reactivación económica desde el punto de vista de la cantidad de empleo que las empresas pueden proporcionar, por lo que aquellas empresas que generen mas cantida de empleo serán concideradas como las mas influyentes en la reactivación económica.
 <br>
@@ -128,9 +128,5 @@ Según la grafica que nos muestra la razón de la inoperatividad de las empresas
 <br>
 ![Estimación reactivación económica](https://user-images.githubusercontent.com/111087121/186082333-ac6fbd4e-f17c-4312-bea1-ecc6130f62c3.png)
 <br>
+
 ## Insights
-
-
-
-
-![Resultado](./SistemadeTutoria_Images/Cronograma.png)

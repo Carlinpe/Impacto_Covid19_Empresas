@@ -17,6 +17,14 @@
 
 
 ## Tabla de Contenido
+- [Introducción: Descripción del problema]
+- [Fase 1: FUENTE DE LOS DATOS]
+- [Fase 2: DESCRIPCIÓN DEL DATASET]
+- [ANALITICAL TASKS]
+- [GRÁFICAS DE ANÁLISIS]
+- [INSIGHTS]
+
+
 - [Capítulo I: Aspectos Generales](https://github.com/VkCarlin/TeamRocket)
   - [1.1 Planteamiento del problema](https://github.com/VkCarlin/TeamRocket)
     - [1.1.1 Descripción del problema](https://github.com/VkCarlin/TeamRocket)
@@ -27,6 +35,17 @@
   - [1.3 Limitaciones y Delimitaciones](https://github.com/VkCarlin/TeamRocket)
   - [1.4 Justificación](https://github.com/VkCarlin/TeamRocket)
   - [1.5 Cronograma](https://github.com/VkCarlin/TeamRocket)
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -80,7 +80,7 @@ Tambien se requiere conocer cuales fueron los problemas con respecto a sus FINAN
 <br>
 Y como afecto todos esos problemas a los empleados
 <br>
-- [porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
+![porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
 <br>
 ![Porcentaje de trabajadores](https://user-images.githubusercontent.com/111087121/186076427-f7a70ea3-6090-416d-8069-7f493c29da9e.png)
 <br>

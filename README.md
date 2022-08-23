@@ -129,4 +129,4 @@ Tambien es posible que las empresas que tengan más cercaca su estimación de la
 ![Estimación reactivación económica](https://user-images.githubusercontent.com/111087121/186082333-ac6fbd4e-f17c-4312-bea1-ecc6130f62c3.png)
 <br>
 
-## Insights
+

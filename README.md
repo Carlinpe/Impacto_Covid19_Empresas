@@ -80,7 +80,7 @@ Tambien se requiere conocer cuales fueron los problemas con respecto a sus FINAN
 <br>
 Y como afecto todos esos problemas a los empleados
 <br>
-![porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
+[porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
 <br>
 ![Porcentaje de trabajadores](https://user-images.githubusercontent.com/111087121/186076427-f7a70ea3-6090-416d-8069-7f493c29da9e.png)
 <br>
@@ -88,13 +88,13 @@ Y como afecto todos esos problemas a los empleados
 <br>
 ![medidas_que_optaron_las_empresas](https://user-images.githubusercontent.com/111087121/186069687-8343874b-96f5-4b14-b2f4-2daf54c60610.jpeg)
 <br>
-- [modalidad de ventas](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Modalidaddeventas)
+[modalidad de ventas](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Modalidaddeventas)
 <br>
 ![Modalidad de ventas](https://user-images.githubusercontent.com/111087121/186076571-aca3b41d-c494-4a1b-8334-81f59dfdb56d.png)
 <br>
 Como resultado las empresas no pueden operar a toda su capacidad
 <br>
-- [capacidad instalada operativa](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Capacidadinstaladaoperativa)
+[capacidad instalada operativa](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Capacidadinstaladaoperativa)
 <br>
 ![Capacidad instalada operativa](https://user-images.githubusercontent.com/111087121/186076656-142ed84f-8475-4a1d-82e3-e09f13d9de30.png)
 

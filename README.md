@@ -42,7 +42,7 @@ La información según los campos se agrupan en:
 - Localización de la empresa
 - Datos del/de la informante
 - Características de la empresa
-- Impacto del COVID 19 para la empresa
+- Impacto del COVID 19 en las empresas con respecto a:
   - Ventas
   - Empleo
   - Finanzas
@@ -65,13 +65,26 @@ Que tipos de ayuda (financiamiento, reducción de restricciones, etc) se require
 
 ## Gráficas de análisis
 TASK 1:
+Se requiere conocer cuales fueron los problemas que las empresas tuvieron con sus VENTAS.
+Para ello se utilizó el sub-conjunto de datos "Ventas" dentro del conjunto de datos "Impacto del COVID 19 en las empresas", dentro de este sub-conjunto de datos tenemos un grupo de preguntas cuyas respuestas pueden ser 1 (afirmando) y 0 (negando):
+PREGUNTA GENERAL: 
+¿Cuáles son los principales problemas que enfrentó la empresa por causa del COVID 19 en el segundo trimestre 2020?
 <br>
 ![problemas_con_respecto_a_las_ventas](https://user-images.githubusercontent.com/111087121/186069658-a0d3ffef-c208-47cb-83c6-9f99ee0fe274.jpeg)
-![medidas_que_optaron_las_empresas](https://user-images.githubusercontent.com/111087121/186069687-8343874b-96f5-4b14-b2f4-2daf54c60610.jpeg)
+<br>
+Tambien se requiere conocer cuales fueron los problemas con respecto a sus FINANZAS
+<br>
 ![problemas_con_respecto_a_las_finanzas](https://user-images.githubusercontent.com/111087121/186069747-58ad777c-d595-4ea5-a9c8-6702ac90377f.jpeg)
-
-- [modalidad de ventas](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Modalidaddeventas)
+<br>
+Y como afecto todos esos problemas a los empleados
 - [porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
+<br>
+¿Cuales fueron las medidas que tomaron las empresas con sus empleados? y ¿Por cual modalidad de ventas optaron?.
+<br>
+![medidas_que_optaron_las_empresas](https://user-images.githubusercontent.com/111087121/186069687-8343874b-96f5-4b14-b2f4-2daf54c60610.jpeg)
+- [modalidad de ventas](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Modalidaddeventas)
+<br>
+Como resultado las empresas no pueden operar a toda su capacidad
 - [capacidad instalada operativa](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Capacidadinstaladaoperativa)
 
 TASK 2:

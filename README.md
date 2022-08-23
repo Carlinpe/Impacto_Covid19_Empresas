@@ -99,10 +99,18 @@ Como resultado las empresas no pueden operar a toda su capacidad
 ![Capacidad instalada operativa](https://user-images.githubusercontent.com/111087121/186076656-142ed84f-8475-4a1d-82e3-e09f13d9de30.png)
 
 TASK 2:
+Para responder a la pregunta ¿Cuán accesible y efectivo son los programa del gobierno?, necesitamos saber cuales fueron los programas de gobierno a los que accedieron las empresas en el dataset y cuales fueron los mas accesibles.
 <br>
 ![programas_de_gobierno_mas_accesibles](https://user-images.githubusercontent.com/111087121/186069875-ad1b3dce-fcde-4e18-a4cf-e281b6a8935e.jpeg)
-![por_que_no_accedio_a_programas_del_gobierno](https://user-images.githubusercontent.com/111087121/186069903-030aa04d-6990-475c-8435-e589d52f524a.jpeg)
+<br>
+Con respecto a la segunda pregunta ¿Que efecto tuvieron en las empresas?, tomamos una perspectiva de la peor situación, viendo por que algunas empresas quedaron inoperativas.
+<br>
 ![porque_se_encuentra_inoperativa](https://user-images.githubusercontent.com/111087121/186069924-74ce1866-bbfd-4171-accb-f20bbe98c7fd.jpeg)
+<br>
+Y para aclarar la relación entre los programas del gobierno y su efectividad, se muestran las principales razones por las que algunas empresas no accedieron a los programas del gobierno.
+<br>
+![por_que_no_accedio_a_programas_del_gobierno](https://user-images.githubusercontent.com/111087121/186069903-030aa04d-6990-475c-8435-e589d52f524a.jpeg)
+<br>
 
 TASK 3:
 <br>

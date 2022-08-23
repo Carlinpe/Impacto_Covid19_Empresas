@@ -66,9 +66,9 @@ Que tipos de ayuda (financiamiento, reducción de restricciones, etc) se require
 ## Gráficas de análisis
 TASK 1:
 <br>
-![Problemas con respecto a las ventas](https://user-images.githubusercontent.com/111087121/186065162-8df117e7-86b8-4e7a-8ccd-ed573886ac2f.svg)
-![Medidas que optaron las empresas](https://user-images.githubusercontent.com/111087121/186065235-18c8bb37-b597-476c-b641-f4851f5d6beb.svg)
-![Problemas con respecto a las finanzas](https://user-images.githubusercontent.com/111087121/186065249-11873bf2-bb17-4a8f-a89e-0e3b449e371a.svg)
+![problemas_con_respecto_a_las_ventas](https://user-images.githubusercontent.com/111087121/186069658-a0d3ffef-c208-47cb-83c6-9f99ee0fe274.jpeg)
+![medidas_que_optaron_las_empresas](https://user-images.githubusercontent.com/111087121/186069687-8343874b-96f5-4b14-b2f4-2daf54c60610.jpeg)
+![problemas_con_respecto_a_las_finanzas](https://user-images.githubusercontent.com/111087121/186069747-58ad777c-d595-4ea5-a9c8-6702ac90377f.jpeg)
 
 - [modalidad de ventas](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Modalidaddeventas)
 - [porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
@@ -76,13 +76,13 @@ TASK 1:
 
 TASK 2:
 <br>
-![Programas de gobierno mas accesibles](https://user-images.githubusercontent.com/111087121/186065328-6106b04f-dd1f-4d1d-91df-8947fbda748a.svg)
-![Por que no accedio a programas del gobierno](https://user-images.githubusercontent.com/111087121/186065365-0e1c7137-74c5-4ee9-a89c-f9b33b57caa3.svg)
-![¿Por qué motivos se encuentra inoperativa la empresa](https://user-images.githubusercontent.com/111087121/186065393-7e7fc5b3-6ddf-4b62-8f3d-c9bc08a8c028.svg)
-
+![programas_de_gobierno_mas_accesibles](https://user-images.githubusercontent.com/111087121/186069875-ad1b3dce-fcde-4e18-a4cf-e281b6a8935e.jpeg)
+![por_que_no_accedio_a_programas_del_gobierno](https://user-images.githubusercontent.com/111087121/186069903-030aa04d-6990-475c-8435-e589d52f524a.jpeg)
+![porque_se_encuentra_inoperativa](https://user-images.githubusercontent.com/111087121/186069924-74ce1866-bbfd-4171-accb-f20bbe98c7fd.jpeg)
 
 TASK 3:
 <br>
+
 - [Estimación de número de meses para que la empresa vuelva a los niveles de ventas antes de la pandemias](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/volveralosnivelesdeventasantesdelapandemia)
 - [Estimación de tiempo para la reactivación económica](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Estimaciónreactivacióneconómica)
 

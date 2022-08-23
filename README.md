@@ -18,11 +18,45 @@
 
 ## Tabla de Contenido
 - [Introducción: Descripción del problema]
-- [Fase 1: FUENTE DE LOS DATOS]
-- [Fase 2: DESCRIPCIÓN DEL DATASET]
+- [FUENTE DE LOS DATOS]
+- [DESCRIPCIÓN DEL DATASET]
 - [ANALITICAL TASKS]
 - [GRÁFICAS DE ANÁLISIS]
 - [INSIGHTS]
+
+## Introducción
+### Problema
+Uno de los problemas que trajo consigo el Covid 19 fue que muchas empresas tuvieron que dejar de operar para evitar más contagios, con ello se redujeron las ventas y se generó mucho desempleo.
+El objetivo es analizar cuál fue el impacto del Covid 19 en las empresas del Perú.
+
+## Fuente de los datos
+Los datos fueron extraidos de la base de datos de la [INEI](http://iinei.inei.gob.pe/microdatos/). La consulta que se realizó fue:
+![image](https://user-images.githubusercontent.com/111087121/186062413-a5b363cd-871c-4544-bb1b-f7bb5e9a7d38.png)
+
+## Descripción del dataset
+Las dimensiones del data set son:
+- 929 registros
+- 107 campos
+
+La información según los campos se agrupan en:
+- Localización de la empresa
+- Datos del/de la informante
+- Características de la empresa
+- Impacto del COVID 19 para la empresa
+  - Ventas
+  - Empleo
+  - Finanzas
+  - Apreciación y expectativa (estimación de tiempo de recuperación y reactivación económica respectivamente)
+  - Acceso a programas del gobierno
+- Empresa inoperativa
+
+## Analitical tasks
+
+
+## Gráficas de análisis
+
+
+## Insights
 
 
 - [Capítulo I: Aspectos Generales](https://github.com/VkCarlin/TeamRocket)

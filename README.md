@@ -79,6 +79,7 @@ Tambien se requiere conocer cuales fueron los problemas con respecto a sus FINAN
 ![problemas_con_respecto_a_las_finanzas](https://user-images.githubusercontent.com/111087121/186069747-58ad777c-d595-4ea5-a9c8-6702ac90377f.jpeg)
 <br>
 Y como afecto todos esos problemas a los empleados
+<br>
 - [porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
 <br>
 ![Porcentaje de trabajadores](https://user-images.githubusercontent.com/111087121/186076427-f7a70ea3-6090-416d-8069-7f493c29da9e.png)

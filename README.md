@@ -122,7 +122,7 @@ Según la grafica que nos muestra la razón de la inoperatividad de las empresas
 <br>
 ![volver a los niveles de ventas antes de la pandemia](https://user-images.githubusercontent.com/111087121/186082201-b9069914-c2f6-40a0-9965-caf82862ce7a.png)<>
 <br>
-
+Tambien es posible que las empresas que tengan más cercaca su estimación de la reactivación económica sean mas fáciles de ayudar 
 <br>
 [Estimación de tiempo para la reactivación económica](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Estimaciónreactivacióneconómica)
 <br>

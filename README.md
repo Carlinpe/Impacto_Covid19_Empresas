@@ -67,7 +67,9 @@ Que tipos de ayuda (financiamiento, reducción de restricciones, etc) se require
 TASK 1:
 Se requiere conocer cuales fueron los problemas que las empresas tuvieron con sus VENTAS.
 Para ello se utilizó el sub-conjunto de datos "Ventas" dentro del conjunto de datos "Impacto del COVID 19 en las empresas", dentro de este sub-conjunto de datos tenemos un grupo de preguntas cuyas respuestas pueden ser 1 (afirmando) y 0 (negando):
+<br>
 PREGUNTA GENERAL: 
+<br>
 ¿Cuáles son los principales problemas que enfrentó la empresa por causa del COVID 19 en el segundo trimestre 2020?
 <br>
 ![problemas_con_respecto_a_las_ventas](https://user-images.githubusercontent.com/111087121/186069658-a0d3ffef-c208-47cb-83c6-9f99ee0fe274.jpeg)
@@ -78,14 +80,17 @@ Tambien se requiere conocer cuales fueron los problemas con respecto a sus FINAN
 <br>
 Y como afecto todos esos problemas a los empleados
 - [porcentaje de trabajadores](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Porcentajedetrabajadores)
+![Porcentaje de trabajadores](https://user-images.githubusercontent.com/111087121/186076427-f7a70ea3-6090-416d-8069-7f493c29da9e.png)
 <br>
 ¿Cuales fueron las medidas que tomaron las empresas con sus empleados? y ¿Por cual modalidad de ventas optaron?.
 <br>
 ![medidas_que_optaron_las_empresas](https://user-images.githubusercontent.com/111087121/186069687-8343874b-96f5-4b14-b2f4-2daf54c60610.jpeg)
 - [modalidad de ventas](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Modalidaddeventas)
+![Modalidad de ventas](https://user-images.githubusercontent.com/111087121/186076571-aca3b41d-c494-4a1b-8334-81f59dfdb56d.png)
 <br>
 Como resultado las empresas no pueden operar a toda su capacidad
 - [capacidad instalada operativa](https://public.tableau.com/app/profile/luiyi.antony3599/viz/ImpactodelCovid19enlasempresasperuanas/Capacidadinstaladaoperativa)
+![Capacidad instalada operativa](https://user-images.githubusercontent.com/111087121/186076656-142ed84f-8475-4a1d-82e3-e09f13d9de30.png)
 
 TASK 2:
 <br>

@@ -73,6 +73,12 @@ PREGUNTA GENERAL:
 <br>
 ¿Cuáles son los principales problemas que enfrentó la empresa por causa del COVID 19 en el segundo trimestre 2020?
 <br>
+NOTA: Los gráficos fueron generados por un módulo que se encuentra en el cuaderno de colab, dicho módulo permite hacer filtros por provincia y distrito, si se desea observar datos más específicos puede generarlos ingresando como parámetros los nombres de las provincias o distritos en mayusculas.
+<br>
+![image](https://user-images.githubusercontent.com/111087121/186703623-5e53b6d5-6d2f-432b-83de-961212da1e15.png)
+<br>
+El resto de gráficas estan generadas con la completitud de los datos (sin filtrar por distrito o región)
+<br>
 ![problemas_con_respecto_a_las_ventas](https://user-images.githubusercontent.com/111087121/186069658-a0d3ffef-c208-47cb-83c6-9f99ee0fe274.jpeg)
 <br>
 Tambien se requiere conocer cuales fueron los problemas con respecto a sus FINANZAS
